@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633364646650",
+    "project_id": "event-alerts-d6766",
+    "storage_bucket": "event-alerts-d6766.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633364646650:android:2240e3ee8485b43ef61743",
+        "android_client_info": {
+          "package_name": "com.example.event_alerts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhccy_iwKO-itJ8Jp4IHdCGaQ6bEWpApY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
